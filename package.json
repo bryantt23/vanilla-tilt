@@ -1,5 +1,5 @@
 {
-  "name": "vanilla-tilt",
+  "name": "vanilla-tilts",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,6 +9,8 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
+    "react-vanilla-tilt": "^1.0.0",
+    "vanilla-tilt": "^1.7.0",
     "web-vitals": "^1.0.1"
   },
   "scripts": {
